@@ -1,0 +1,30 @@
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\bin\Debug\net8.0\StedoMedo.exe
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\bin\Debug\net8.0\StedoMedo.deps.json
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\bin\Debug\net8.0\StedoMedo.runtimeconfig.json
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\bin\Debug\net8.0\StedoMedo.dll
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\bin\Debug\net8.0\StedoMedo.pdb
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.AssemblyInfoInputs.cache
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.AssemblyInfo.cs
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.csproj.CoreCompileInputs.cache
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.sourcelink.json
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.dll
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\refint\StedoMedo.dll
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.pdb
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.genruntimeconfig.cache
+C:\Users\HP Compaq\Desktop\VVS\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\ref\StedoMedo.dll
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\bin\Debug\net8.0\StedoMedo.exe
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\bin\Debug\net8.0\StedoMedo.deps.json
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\bin\Debug\net8.0\StedoMedo.runtimeconfig.json
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\bin\Debug\net8.0\StedoMedo.dll
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\bin\Debug\net8.0\StedoMedo.pdb
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.AssemblyInfo.cs
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.sourcelink.json
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.dll
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\refint\StedoMedo.dll
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.pdb
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\StedoMedo.genruntimeconfig.cache
+C:\Users\Korisnik\Source\Repos\VVS-24-25-Projekat\StedoMedo\StedoMedo\obj\Debug\net8.0\ref\StedoMedo.dll
